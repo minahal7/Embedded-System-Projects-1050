@@ -26,4 +26,4 @@ This repository contains all weekly tasks and projects for the Embedded Systems 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/minahal7/Embedded-System-1050
+   git clone https://github.com/minahal7/Embedded-System-Projects-1050.git
